@@ -25,6 +25,8 @@ Software developer specializing in game localization tooling and full-stack web 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyy0887)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100034841916816)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kiboy344)
+[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~hengki18990)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/kyy0887/Clawie-translator/-/tree/master/game?ref_type=heads)
 
 ## Tech Stack
 
@@ -61,7 +63,7 @@ Software developer specializing in game localization tooling and full-stack web 
 
 | AI Agents | Router |
 | --- | --- |
-| <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/hermes.png" width="20" height="20" alt="Hermes Agent"/> **Hermes Agent**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/claude.svg" width="20" height="20" alt="Claude Code"/> **Claude Code**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/codex.svg" width="20" height="20" alt="Codex"/> **Codex**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/antigravity.png" width="20" height="20" alt="Antigravity"/> **Antigravity**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/zcode.png" width="20" height="20" alt="Zcode"/> **Zcode** | ![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=for-the-badge) |
+| <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/hermes.png" width="20" height="20" align="middle" alt="Hermes Agent"/> **Hermes Agent**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/claude.svg" width="20" height="20" align="middle" alt="Claude Code"/> **Claude Code**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/codex.svg" width="20" height="20" align="middle" alt="Codex"/> **Codex**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/antigravity.png" width="20" height="20" align="middle" alt="Antigravity"/> **Antigravity**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/zcode.png" width="20" height="20" align="middle" alt="Zcode"/> **Zcode** | ![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=for-the-badge) |
 
 ## GitHub Stats
 
@@ -71,4 +73,6 @@ Software developer specializing in game localization tooling and full-stack web 
 
 ## Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%"/>
+</p>
