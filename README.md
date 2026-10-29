@@ -61,7 +61,7 @@ Software developer specializing in game localization tooling and full-stack web 
 
 | AI Agents | Router |
 | --- | --- |
-| ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge)<br>![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)<br>![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)<br>![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)<br>![Zcode](https://img.shields.io/badge/Zcode-000000?style=for-the-badge) | ![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=for-the-badge) |
+| <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/hermes.png" width="20" height="20" alt="Hermes Agent"/> **Hermes Agent**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/claude.svg" width="20" height="20" alt="Claude Code"/> **Claude Code**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/codex.svg" width="20" height="20" alt="Codex"/> **Codex**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/antigravity.png" width="20" height="20" alt="Antigravity"/> **Antigravity**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/zcode.png" width="20" height="20" alt="Zcode"/> **Zcode** | ![OmniRoute](https://img.shields.io/badge/OmniRoute-000000?style=for-the-badge) |
 
 ## GitHub Stats
 
