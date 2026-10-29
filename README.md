@@ -8,15 +8,17 @@
 <h3 align="center">Software Developer — Game Localization Tooling & Full-Stack Web</h3>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kyy0887&icon=0&color=0" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kyy0887&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## About Me
 
-- Building **Clawie**, a localization suite for **Ren'Py visual novels** and **RPG Maker** games — syntax-aware translation, SQLite caching, and automated syntax repair.
-- Working across the full stack: **Python** tooling, **TypeScript/JavaScript** front ends, and **PHP** back ends.
-- Focus areas: AI-assisted translation pipelines, web applications, and Android/Termux-native tooling.
-- Open to collaborating on localization tools, web apps, and API integrations.
+Software developer specializing in game localization tooling and full-stack web development. I build **Clawie**, a localization suite for **Ren'Py visual novels** and **RPG Maker** games, featuring syntax-aware translation, SQLite caching, and automated syntax repair.
+
+- **AI agent workflows:** Hermes Agent, Claude Code, Codex, Antigravity, and Zcode, orchestrated through **OmniRoute** for multi-model LLM routing.
+- **Full-stack development:** Python tooling, TypeScript/JavaScript front ends, and PHP back ends.
+- **Focus areas:** AI-assisted translation pipelines and web applications.
+- **Collaboration:** open to working on localization tools, web apps, and API integrations.
 
 ## Connect with Me
 
@@ -58,3 +60,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=kyy0887&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyy0887&theme=tokyonight&hide_border=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=kyy0887&theme=tokyonight&hide_border=false)
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake.svg">
+</picture>
