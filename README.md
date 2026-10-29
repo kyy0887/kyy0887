@@ -74,5 +74,5 @@ Software developer specializing in game localization tooling and full-stack web 
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/output/github-contribution-grid-snake-black.svg" alt="github contribution grid snake animation" width="100%"/>
 </p>
