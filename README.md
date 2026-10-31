@@ -67,25 +67,10 @@ Software developer specializing in game localization tooling and full-stack web 
 
 ## Bahasa Pemrograman
 
-<!-- LANGS:START -->
-| Bahasa | Persentase |
-| --- | ---: |
-| JavaScript | 37.2% |
-| Python | 19.8% |
-| PHP | 19.3% |
-| TypeScript | 10.8% |
-| Ren'Py | 6.2% |
-| CSS | 4.2% |
-| Blade | 1.4% |
-| HTML | 0.4% |
-| PLpgSQL | 0.4% |
-| Shell | 0.2% |
-| Vue | 0.1% |
-| Hack | 0.1% |
-| Makefile | 0.0% |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/langs.svg" alt="Bahasa Pemrograman" />
+</p>
 
-*Dihitung dari 22 repositori milik sendiri (publik + privat, bukan fork; agregasi anonim, tanpa menyebut nama repo). Terakhir dihitung: 31 Oktober 2026, 17:39 WIB.*
-<!-- LANGS:END -->
 
 ## GitHub Stats
 
