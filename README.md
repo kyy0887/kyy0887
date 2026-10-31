@@ -65,10 +65,31 @@ Software developer specializing in game localization tooling and full-stack web 
 | --- | --- |
 | <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/hermes.png" width="20" height="20" align="middle" alt="Hermes Agent"/> **Hermes Agent**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/claude.svg" width="20" height="20" align="middle" alt="Claude Code"/> **Claude Code**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/codex.svg" width="20" height="20" align="middle" alt="Codex"/> **Codex**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/antigravity.png" width="20" height="20" align="middle" alt="Antigravity"/> **Antigravity**<br><img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/zcode.png" width="20" height="20" align="middle" alt="Zcode"/> **Zcode** | <img src="https://raw.githubusercontent.com/kyy0887/kyy0887/main/icons/omniroute.svg" width="20" height="20" align="middle" alt="OmniRoute"/> **OmniRoute** |
 
+## Bahasa Pemrograman
+
+<!-- LANGS:START -->
+| Bahasa | Persentase |
+| --- | ---: |
+| JavaScript | 37.2% |
+| Python | 19.8% |
+| PHP | 19.3% |
+| TypeScript | 10.8% |
+| Ren'Py | 6.2% |
+| CSS | 4.2% |
+| Blade | 1.4% |
+| HTML | 0.4% |
+| PLpgSQL | 0.4% |
+| Shell | 0.2% |
+| Vue | 0.1% |
+| Hack | 0.1% |
+| Makefile | 0.0% |
+
+*Dihitung dari 22 repositori milik sendiri (publik + privat, bukan fork; agregasi anonim, tanpa menyebut nama repo). Terakhir dihitung: 31 Oktober 2026, 17:39 WIB.*
+<!-- LANGS:END -->
+
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=kyy0887&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyy0887&theme=tokyonight&hide_border=false&layout=compact)
 ![](https://streak-stats.demolab.com/?user=kyy0887&theme=tokyonight&hide_border=false)
 
 ## Contribution Snake
